@@ -1,7 +1,4 @@
-How to use
+create LAMP stack development environment
 
-```bash
-git clone https://github.com/naga3/docker-lamp.git
-cd docker-lamp/
+#create php mysql containers
 docker-compose up -d
-```
